@@ -5,6 +5,7 @@ import pandas as pd
 
 load_dotenv(override=True)
 
+st.set_page_config(layout='wide')
 st.title("Let's do some analysis on your csv")
 st.header("Please upload your csv file here:")
 
