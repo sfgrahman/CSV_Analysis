@@ -2,3 +2,6 @@ streamlit
 pandasai
 python-dotenv
 langchain
+langchain-experimental
+langchain-core
+langchain-community
