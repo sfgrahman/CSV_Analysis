@@ -5,3 +5,4 @@ langchain
 langchain-experimental
 langchain-core
 langchain-community
+tabulate
